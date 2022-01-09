@@ -1,0 +1,32 @@
+.container {
+  padding: 60px;
+  background-color: rgba(255, 187, 249, 0.7);
+  box-shadow: var(--boxShadow);
+}
+
+.title {
+  margin-bottom: 20px;
+  font-weight: 500;
+  font-size: 32px;
+}
+
+.icon {
+  margin-right: 20px;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.wrapper:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.description {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  color: var(--secondaryTextColor);
+  text-align: left;
+}
