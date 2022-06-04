@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/weather-report/static/css/main.6efc8204.chunk.css",
+    "main.css": "/weather-report/static/css/main.19461faf.chunk.css",
     "main.js": "/weather-report/static/js/main.0c6ec527.chunk.js",
     "main.js.map": "/weather-report/static/js/main.0c6ec527.chunk.js.map",
     "runtime-main.js": "/weather-report/static/js/runtime-main.de908459.js",
@@ -10,7 +10,7 @@
     "static/js/2.70d1e93a.chunk.js.map": "/weather-report/static/js/2.70d1e93a.chunk.js.map",
     "index.html": "/weather-report/index.html",
     "static/css/2.f7a7e916.chunk.css.map": "/weather-report/static/css/2.f7a7e916.chunk.css.map",
-    "static/css/main.6efc8204.chunk.css.map": "/weather-report/static/css/main.6efc8204.chunk.css.map",
+    "static/css/main.19461faf.chunk.css.map": "/weather-report/static/css/main.19461faf.chunk.css.map",
     "static/js/2.70d1e93a.chunk.js.LICENSE.txt": "/weather-report/static/js/2.70d1e93a.chunk.js.LICENSE.txt",
     "static/media/index.css": "/weather-report/static/media/back_day.e8d8f403.jpg",
     "static/media/clock.135740c4.png": "/weather-report/static/media/clock.135740c4.png",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.de908459.js",
     "static/css/2.f7a7e916.chunk.css",
     "static/js/2.70d1e93a.chunk.js",
-    "static/css/main.6efc8204.chunk.css",
+    "static/css/main.19461faf.chunk.css",
     "static/js/main.0c6ec527.chunk.js"
   ]
 }
